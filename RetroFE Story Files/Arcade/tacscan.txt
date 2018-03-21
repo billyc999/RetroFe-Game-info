@@ -1,0 +1,1 @@
+ The player controls a fleet of seven ships through three stages: Armada Attack, 3-D Armada Attack, and a Space Warp Tunnel. The player can gain additional ships to replace ships that get destroyed.

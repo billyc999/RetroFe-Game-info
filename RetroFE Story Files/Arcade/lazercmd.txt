@@ -1,0 +1,1 @@
+ You have an overhead view of a maze with two sides, the sides mirror each other. The left side of the screen is yellow, and the right side is green. On each side are fifteen tanks. The object is to blow up all of the oppossing players tanks (or as many as

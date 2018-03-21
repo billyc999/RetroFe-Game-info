@@ -1,0 +1,1 @@
+ An abstract one or two player shoot-em-up in which the aim is to stop swarms of aliens from building a sectional tunnel from the bottom of the screen to the top.[-LF-]At the top of each level are blue tunnel sections, while at the bottom are purple ones.

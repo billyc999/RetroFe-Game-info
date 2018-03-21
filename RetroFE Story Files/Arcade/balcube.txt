@@ -1,0 +1,1 @@
+ This is an "Arkanoid"-type game with a few twists. Instead of controlling a paddle, you control the ball itself by altering its momentum using the joystick. Various blocks (squares, triangles, and special blocks containing powerups) advance down from the

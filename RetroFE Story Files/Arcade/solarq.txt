@@ -1,0 +1,1 @@
+ In the center of the screen is a sun. Any space ships or ship's fire coming in contact with the sun are destroyed. The sun exerts an increasing gravitational pull as play progresses.[-LF-]A player controlled space ship is randomly located on the screen. T

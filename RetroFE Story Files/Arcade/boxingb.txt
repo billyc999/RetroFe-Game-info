@@ -1,0 +1,1 @@
+ This is kind of like a reverse of "Star Castle". In the center of the screen is a player-controlled rotating cannon, enclosed within an octagon. The cannon shoots fireballs from one end and has a boxing glove on an extension arm on the other end. The octa

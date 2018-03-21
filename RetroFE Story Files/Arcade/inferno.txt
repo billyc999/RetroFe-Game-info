@@ -1,0 +1,1 @@
+ Players walk around a 3-quarters perspective maze shooting at various enemies. After shooting an enemy the enemy's 'soul' (a dark version of itself) attempts to make its way to the top of the screen to an awaiting monster mouth. The player must touch the

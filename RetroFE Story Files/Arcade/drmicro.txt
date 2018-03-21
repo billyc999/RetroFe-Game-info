@@ -1,0 +1,1 @@
+ An early platform game in which the player must defeat a mad scientist, avoiding and destroying his evil creations in the process.[-LF-]The game consists of 3 single-screen levels :[-LF-]On the first the player must move from the left to the right of the

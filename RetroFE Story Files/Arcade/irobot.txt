@@ -1,0 +1,1 @@
+ The game play consists of moving robot1984 over all of the red tiles while avoiding objects flying at you from the back of the screen. Eliminating the red tiles diminishes the shield at the back of the playfield which prevents you from flying to the next

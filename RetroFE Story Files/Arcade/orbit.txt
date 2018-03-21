@@ -1,0 +1,1 @@
+ GAME LEVELS. The game level can be selected at the beginning of the game or after game select button has been pressed. Press the buttons from 1 to 10.[-LF-]BEGINNER : Instant start/stop when pressing forward. Level Options :[-LF-]1. Slow (Starship and She

@@ -1,0 +1,1 @@
+ A horizontally scrolling shoot-em-up in which a single player takes control of a hovership and must battle their way through an enemy-packed level; moving both above and below ground during the course of a level.[-LF-]At various points the player will com

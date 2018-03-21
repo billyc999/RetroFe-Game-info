@@ -1,0 +1,1 @@
+ Sky Raider is a two-dimensional, vertical scrolling game. You get to be the pilot of a bomber whose task is to destroy as many targets as possible in the allotted period of time. Fortunately for the player, it is a target-rich environment and the best par

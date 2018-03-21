@@ -1,0 +1,1 @@
+ Frenzy followed the basic paradigm set by Berzerk: the player must navigate a maze full of hostile robots. The goal of the game is to survive as long as possible and score points by killing robots and travelling from room to room. The game has no end othe

@@ -1,0 +1,1 @@
+ Atari's Monte Carlo is a 1-player video game that simulates driving in a grand prix race. Various video-display phrase indicate score, time elapsed ('FUEL'), speed and which track was selected at the begining of the game (eight different ones ranging from

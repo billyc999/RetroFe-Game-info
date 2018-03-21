@@ -1,0 +1,1 @@
+ The game is played with two buttons, with the A button firing bullets from the plane and the B button launching a special bomb attack which uses a bomb from a limited stock of bombs. Power bullets can be obtained by destroying buildings and armored enemy

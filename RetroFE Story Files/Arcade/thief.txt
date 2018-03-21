@@ -1,0 +1,1 @@
+ Players drive a car around a maze collecting greenbacks while being pursued by a number of police cars. Use dollar symbols to make your car invincible and put police cars temporarily out of action. The game uses a continuous loop tape with actual police b

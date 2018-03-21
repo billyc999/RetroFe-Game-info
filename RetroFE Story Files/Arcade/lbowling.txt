@@ -1,0 +1,1 @@
+ A colourful and playable ten-pin bowling game for 1 to 4 players, offering a choice of three scoring methods : 'Regulation', 'Flash' and 'Strike 90'.[-LF-]The game begins with players selecting either a right or left-handed bowler, before choosing what we

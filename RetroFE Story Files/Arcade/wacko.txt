@@ -1,0 +1,1 @@
+ The player moves Kapt'n Krooz'r with the trackball and fires in four directions using either joystick. Shooting a single monster stuns it for a few seconds. The player must then shoot the monster's twin before the first one recovers in order to eliminate

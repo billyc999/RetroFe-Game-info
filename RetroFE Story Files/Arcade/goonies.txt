@@ -1,0 +1,1 @@
+ A platform game based on the 1985 Steven Spielberg movie of the same name. The player takes control of Mikey and must explore a variety of caverns and rooms, searching for the three keys needed to unlock the huge, metal door that bars progress to the next

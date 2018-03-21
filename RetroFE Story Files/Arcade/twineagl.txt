@@ -1,0 +1,1 @@
+ A vertical shoot-em-up that places the player's helicopter against multiple attacking targets in the air sea, and land. Collecting the weapon and speed power-ups throughout the game is vital since the gameplay is quite difficult.[-LF-]The object of the ga

@@ -1,0 +1,1 @@
+ Star Hawk is a 3-D wireframe shoot-em-up which places a strong emphasis on player timing. Players move a cross hair around the screen and must blast the approaching enemy spaceships.[-LF-]The skill level settings affect how quickly the cross hairs move in

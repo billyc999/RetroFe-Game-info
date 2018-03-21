@@ -1,0 +1,1 @@
+ The object of Clay Pigeon was to shoot as many clay targets as you can, using an arcade light gun that was shaped like a shotgun. At the start of the game you are given the choice of selecting either Trap Shooting or Skeet Shooting. Trap shooting is where
