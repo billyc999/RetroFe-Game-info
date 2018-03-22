@@ -1,5 +1,1 @@
-Crazy Looney Tunes' character Taz has just escaped from the Acme Zoo and is now trying to find a place to live. He has discovered five tropical islands and starts to go through each to find a suitable place. Along the way, he must fight off numerous island hazards, such as quicksand and enemies, while at the same time avoiding the Big Hat Hunter who is bent to send him back to the zoo.
-
-With the help of his trusty tornado spin and the new Taz stomp, he is determined to find a home even if it means fighting a giant dinosaur on Dodo Island.
-
-This game is completely different from the SEGA game of the same name.
+ Taz Mania 2 is the second Game Boy game based on the animated TV show. The player takes the role of Taz who has to free his family which was kidnapped by the two hunters Bull Gator and Axl. This is basically a standard platformer in which the player crosses the 16 levels, jumps over gaps and dodges enemies. However, the unique feature of the cartoon Taz was converted to the game: his ability to spin. This allows him to reach high acceleration and being invulnerable - but every second takes away a part of the associated energy bar. It can be refilled by picking up one of the power ups on the way. Every level has to be solved within a time limit and Taz loses one of four hearts when hit by an enemy or touching water.
